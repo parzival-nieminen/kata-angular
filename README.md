@@ -1,2 +1,2 @@
 # kata-angular
-kata repo for angular training 
+kata repo for angular training.
